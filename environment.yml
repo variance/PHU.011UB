@@ -1,6 +1,6 @@
 name: my-scipy-environment
 channels:
-  - conda-forge
+  - anaconda
 dependencies:
   - numpy
   - matplotlib
