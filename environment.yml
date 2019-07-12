@@ -1,0 +1,8 @@
+name: my-scipy-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - sympy
